@@ -10,7 +10,7 @@ namespace HashFunction_in_DS
     {
         static void Main(string[] args)
         {
-            WordFrequency.Frequency();
+            WorldFrequency.Frequency();
         }
     }
 }
