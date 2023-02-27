@@ -38,16 +38,7 @@ namespace HashFunction_in_DS
 
 
             
-            Console.WriteLine("New Frequencies after removing the Word avoidable: ");
-            wordFreq.Remove("avoidable");
-
-            Console.WriteLine("---------------------------------");
-
-
-            foreach (string word in wordFreq.Keys)
-            {
-                Console.WriteLine(word + " : " + wordFreq[word]);
-            }
+           
         }
 
     }
